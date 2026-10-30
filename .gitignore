@@ -1,0 +1,31 @@
+# Local data and credentials
+.omni_memory/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+secrets.toml
+*.sqlite
+*.sqlite3
+*.db
+
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Packaged executables and build output
+build/
+dist/
+*.exe
+*.spec.bak
+
+# Editor and operating-system files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
