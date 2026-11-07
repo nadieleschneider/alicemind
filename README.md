@@ -1,4 +1,5 @@
 AliceMind
+
 AliceMind é um assistente pessoal de IA para Windows, desenvolvido em Python. Ele reúne uma interface de conversa, análise de arquivos, organização de informações e execução supervisionada de algumas tarefas em projetos.
 
 O AliceMind funciona como interface e integração: ele se conecta a um serviço compatível com a API de chat da OpenAI, como o OmniRoute. Não inclui modelos de IA e não inicia nem configura o OmniRoute. A disponibilidade e a capacidade de cada recurso dependem do endpoint, do modelo e das credenciais configuradas.
