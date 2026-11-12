@@ -1,8 +1,21 @@
+<img width="810" height="2268" alt="image" src="https://github.com/user-attachments/assets/b5aaf727-c518-4bf0-bdf6-75577cb45112" /><img width="810" height="2268" alt="image" src="https://github.com/user-attachments/assets/b371a379-43f3-45dc-be3b-9074f26f6ab2" />AliceMind
+
+Tecnologias: Python • Streamlit • SQLite • Ollama • Whisper • Tavily • CustomTkinter • PyInstaller
 AliceMind
 
-AliceMind é um assistente pessoal de IA para Windows, desenvolvido em Python. Ele reúne uma interface de conversa, análise de arquivos, organização de informações e execução supervisionada de algumas tarefas em projetos.
+Plataforma pessoal de Inteligência Artificial para Windows, desenvolvida em Python, com memória local, análise de documentos, visão computacional e automação supervisionada.
+O sistema integra LLMs, memória local, análise de documentos, pesquisa web, captura de tela, gerenciamento de tarefas e execução supervisionada de fluxos de trabalho em uma única interface.
+Principais recursos:
+✅ Chat com IA e histórico persistente
+✅ Memória e contexto local
+✅ Análise de documentos (PDF, DOCX, XLSX, PPTX)
+✅ Widget de visão computacional para captura de tela
+✅ Pesquisa Web
+✅ Geração e otimização de currículos
+✅ Sistema de tarefas
+✅ Execução supervisionada de planos de ação
+✅ Aplicação desktop distribuível para Windows​‌
 
-O AliceMind funciona como interface e integração: ele se conecta a um serviço compatível com a API de chat da OpenAI, como o OmniRoute. Não inclui modelos de IA e não inicia nem configura o OmniRoute. A disponibilidade e a capacidade de cada recurso dependem do endpoint, do modelo e das credenciais configuradas.
 
 Importante: prompts, arquivos, perfil ou capturas de tela podem ser enviados ao serviço de IA quando você pede uma análise. Confira as políticas de privacidade do provedor antes de enviar informações pessoais ou confidenciais.
 
@@ -317,13 +330,3 @@ Copyright (c) 2026 contribuintes do AliceMind
 Por meio deste, é concedida permissão, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de documentação associados (o "Software"), para lidar com o Software sem restrições, incluindo, sem limitação, os direitos de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software, e permitir que pessoas a quem o Software seja fornecido façam o mesmo, sujeitas às seguintes condições:
 
 O aviso de copyright acima e este aviso de permissão devem ser incluídos em todas as cópias ou partes substanciais do Software.
-
-O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIABILIDADE, ADEQUAÇÃO A UM DETERMINADO FIM E NÃO VIOLAÇÃO. EM NENHUM CASO OS AUTORES OU DETENTORES DE COPYRIGHT SERÃO RESPONSÁVEIS POR QUALQUER RECLAMAÇÃO, DANOS OU OUTRA RESPONSABILIDADE, SEJA EM AÇÃO CONTRATUAL, DELITO OU OUTRA, DECORRENTE DE, OU
-
-
-
-
-
-
-
-
