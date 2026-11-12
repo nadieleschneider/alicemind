@@ -1,4 +1,3 @@
-<img width="810" height="2268" alt="image" src="https://github.com/user-attachments/assets/b5aaf727-c518-4bf0-bdf6-75577cb45112" /><img width="810" height="2268" alt="image" src="https://github.com/user-attachments/assets/b371a379-43f3-45dc-be3b-9074f26f6ab2" />AliceMind
 
 Tecnologias: Python • Streamlit • SQLite • Ollama • Whisper • Tavily • CustomTkinter • PyInstaller
 AliceMind
