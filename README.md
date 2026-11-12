@@ -1,5 +1,6 @@
 
 Tecnologias: Python • Streamlit • SQLite • Ollama • Whisper • Tavily • CustomTkinter • PyInstaller
+
 AliceMind
 
 Plataforma pessoal de Inteligência Artificial para Windows, desenvolvida em Python, com memória local, análise de documentos, visão computacional e automação supervisionada.
